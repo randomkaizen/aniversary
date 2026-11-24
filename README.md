@@ -122,7 +122,7 @@ button:focus-visible{outline:2px solid var(--peach);outline-offset:3px}
 <section class="slide hero">
   <div class="big">2<i>&#10022;</i><i>&#9825;</i><i>&#10022;</i></div>
   <h1 class="a" style="--d:.9s">Months of us</h1>
-  <p class="a" style="--d:1.3s">Happy anniversary, <em class="to">my love</em>. &#128150;</p>
+  <p class="a" style="--d:1.3s">Happy anniversary my dear Shiya, <em class="to">my love</em>. &#128150;</p>
 </section>
 
 <!-- 2 Counter -->
@@ -140,7 +140,7 @@ button:focus-visible{outline:2px solid var(--peach);outline-offset:3px}
 <section class="slide">
   <h2 class="a">How it began</h2>
   <div class="line">
-    <div class="a" style="--d:.5s"><h3>The first hello</h3><p>The moment we first chatted.</p></div>
+    <div class="a" style="--d:.5s"><h3>The first time we saw eachother</h3><p>The moment we first chatted.</p></div>
     <div class="a" style="--d:1.1s"><h3>The day we told each other how we felt</h3><p>All the nervous laughs we had.</p></div>
     <div class="a" style="--d:1.7s"><h3>Everything since</h3><p>Two months of small moments that became our favorites.</p></div>
   </div>
@@ -201,10 +201,11 @@ button:focus-visible{outline:2px solid var(--peach);outline-offset:3px}
 <script>
 /* ===== EDIT THESE ===== */
 const CONFIG = {
-  to: "my love",                 // their name or nickname
-  from: "Yours",                 // your name, shown under the note
+  to: "my Shiya",                 // their name or nickname
+  from: "Aadi",                 // your name, shown under the note
   start: "2026-09-21",           // the day we got together (YYYY-MM-DD)
-  letter: "From the first hello, you made ordinary days feel like little adventures. I love your laugh, your kindness, and how safe I feel with you. Here’s to more late-night talks, more trips, and so many more months with you.",
+  letter: "From the day you entered my life everyday since became more special and lively. I never knew a person would ever love me in this lifetime thats why I've never fell in love before and always kept my feelings and everything to myself BUT you proved me wrong by giving the all the love this world could've never offer even if i lived a million lives. hopefully our love will last to see our last date, our marriage, the birth of our kids, retirement and our last breath.
+    ",
   photos: [                      // add src: "photo1.jpg" to show a real picture
     {src: "", caption: "Our first chat", emoji: "\u{1F4AC}"},
     {src: "", caption: "Nervous laughs", emoji: "\u{1F60A}"},
